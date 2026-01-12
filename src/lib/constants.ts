@@ -9,7 +9,7 @@ export const PRACTICE_INFO = {
   
   // Therapist Details
   therapist: {
-    name: "Kimberly Sullivan",
+    name: "Kim Sullivan",
     credentials: "LPC",
     licenseNumber: "[LICENSE #]",
     licenseState: "Texas",
@@ -60,10 +60,11 @@ export const PRACTICE_INFO = {
       "Cigna",
       "United Health Care",
       "UMR",
+      "Anthem EAP",
     ],
     comingSoon: [
       "Blue Cross Blue Shield",
-      "Anthem EAP",
+
       "Oxford Optum",
       "Oscar Optum",
     ],

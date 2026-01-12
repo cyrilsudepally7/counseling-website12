@@ -182,6 +182,7 @@ export default function AboutPage() {
                     <li>Master&apos;s Degree - Southeastern Oklahoma State University</li>
                     <li>Master&apos;s Degree - Angelo State University</li>
                     <li>Specialized training in Play Therapy</li>
+                    <li>Professional School Counselor</li>
                   </ul>
                 </div>
               </div>
